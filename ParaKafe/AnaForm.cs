@@ -16,6 +16,7 @@ namespace ParaKafe
     public partial class AnaForm : Form
     {
         KafeVeri db = new KafeVeri();
+        //deneme
         public AnaForm()
         {
             //OrnekUrunleriYukle();
